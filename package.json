@@ -1,0 +1,20 @@
+{
+  "name": "create-lalo-bento",
+  "version": "1.0.0",
+  "description": "CLI para Bento Portfolio",
+  "type": "module",
+  "bin": {
+    "bento-portfolio": "bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.0",
+    "create-lalo-bento": "^1.0.0",
+    "figlet": "^1.5.2",
+    "fs-extra": "^11.1.1",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^9.2.2",
+    "ora": "^7.0.1",
+    "simple-git": "^3.16.0"
+  }
+}

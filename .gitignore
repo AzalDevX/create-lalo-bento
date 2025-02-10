@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Editor/OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build artifacts
+dist/
+*.tgz
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Git-related
+.git/
